@@ -1,6 +1,5 @@
-# mobilenetv2-image-classifier
-CNN image classifier using TensorFlow and MobileNetV2 trained on custom data. Includes Azure ML deployment pipeline for scalable hosting, REST API inference, and reproducible environment setup. Modular design for easy adaptation to other image tasks.
 # MobileNetV2 Image Classifier with Azure ML Deployment
+CNN image classifier using TensorFlow and MobileNetV2 trained on custom data. Includes Azure ML deployment pipeline for scalable hosting, REST API inference, and reproducible environment setup. Modular design for easy adaptation to other image tasks.
 
 This project demonstrates training a MobileNetV2 deep learning model using TensorFlow for image classification and deploying it as a scalable REST API using Azure Machine Learning.
 
